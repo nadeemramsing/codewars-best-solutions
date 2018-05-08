@@ -2,7 +2,7 @@
 From which new tricks and lessons can be learnt.
 
 - Using RegExp's Capturing Groups to manipulate strings
-- Second solution is better / simpler / less bug-prone (according to comments)
+- Third solution is better / simpler / less bug-prone (according to comments)
 - Groups:
     1. First character of word
     2. Remaining characters of work
