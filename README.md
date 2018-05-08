@@ -5,7 +5,7 @@ From which new tricks and lessons can be learnt.
 - Third solution is better / simpler / less bug-prone (according to comments)
 - Groups:
     1. First character of word
-    2. Remaining characters of work
+    2. Remaining characters of word
 - \b => Word boundary (used to match word; e.g: /\b(\w*)\b/g)
 - \w => Any alphanumeric character including the underscore; equivalent to [A-Za-z0-9_]
 - <a href="https://www.codewars.com/kata/520b9d2ad5c005041100000f">Link</a>
