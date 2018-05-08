@@ -27,3 +27,11 @@ From which new tricks and lessons can be learnt.
 - <a href="https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie">Link</a>
 
 ![Alt text](images/chrome_2018-05-08_12-13-52.png)
+
+----------
+
+- Using Array Destructuring for better readability
+- Avoids annoying array[n]
+- <a href="https://www.codewars.com/kata/categorize-new-member">Link</a>
+
+![Alt text](images/chrome_2018-05-08_13-41-16.png)
