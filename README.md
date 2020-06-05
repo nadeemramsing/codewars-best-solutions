@@ -1,6 +1,7 @@
 # codewars-best-solutions
 From which new tricks and lessons can be learnt.
 
+# JavaScript
 - Using RegExp's Capturing Groups to manipulate strings
 - Third solution is better / simpler / less bug-prone (according to comments)
 - Groups:
@@ -35,3 +36,5 @@ From which new tricks and lessons can be learnt.
 - <a href="https://www.codewars.com/kata/categorize-new-member">Link</a>
 
 ![Alt text](images/chrome_2018-05-08_13-41-16.png)
+
+# Python
