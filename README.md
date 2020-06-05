@@ -41,10 +41,12 @@ From which new tricks and lessons can be learnt.
 - Vowel Count
     1) Using Regex
     2) Using List Comprehension: an elegant way to define and create lists based on existing lists
+- <a href="https://www.codewars.com/kata/54ff3102c1bad923760001f3/python">Link</a>
 
 ![](images/vowelcount1.png)
 
 - Lambda function: Small anonymous function
 
 ![](images/vowelcount2.png)
+
 ----------
