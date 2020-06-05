@@ -11,14 +11,14 @@ From which new tricks and lessons can be learnt.
 - \w => Any alphanumeric character including the underscore; equivalent to [A-Za-z0-9_]
 - <a href="https://www.codewars.com/kata/520b9d2ad5c005041100000f">Link</a>
 
-![Alt text](images/chrome_2018-05-08_11-40-45.png)
+![](images/chrome_2018-05-08_11-40-45.png)
 
 ----------
 
 - Calling functions that accepts multiple arguments using an Array
 - <a href="https://www.codewars.com/kata/remove-the-minimum">Link</a>
 
-![Alt text](images/chrome_2018-05-08_12-05-57.png)
+![](images/chrome_2018-05-08_12-05-57.png)
 
 ----------
 
@@ -27,7 +27,7 @@ From which new tricks and lessons can be learnt.
 - String interpolation used to separate last item of array.
 - <a href="https://www.codewars.com/kata/format-a-string-of-names-like-bart-lisa-and-maggie">Link</a>
 
-![Alt text](images/chrome_2018-05-08_12-13-52.png)
+![](images/chrome_2018-05-08_12-13-52.png)
 
 ----------
 
@@ -35,6 +35,16 @@ From which new tricks and lessons can be learnt.
 - Avoids annoying array[n]
 - <a href="https://www.codewars.com/kata/categorize-new-member">Link</a>
 
-![Alt text](images/chrome_2018-05-08_13-41-16.png)
+![](images/chrome_2018-05-08_13-41-16.png)
 
 # Python
+- Vowel Count
+    1) Using Regex
+    2) Using List Comprehension: an elegant way to define and create lists based on existing lists
+
+![](images/vowelcount1.png)
+
+- Lambda function: Small anonymous function
+
+![](images/vowelcount2.png)
+----------
