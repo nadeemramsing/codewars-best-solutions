@@ -50,3 +50,10 @@ From which new tricks and lessons can be learnt.
 ![](images/vowelcount2.png)
 
 ----------
+
+- Mapping a List
+    1) Using List Comprehension
+    2) Using map
+- <a href="https://www.codewars.com/kata/57f781872e3d8ca2a000007e">Link</a>
+
+![](images/listwithoutamap.png)
