@@ -57,3 +57,14 @@ From which new tricks and lessons can be learnt.
 - <a href="https://www.codewars.com/kata/57f781872e3d8ca2a000007e">Link</a>
 
 ![](images/listwithoutamap.png)
+
+----------
+
+- Abbreviating a two-word name
+    1) Using List Destructuring
+    2) Using List Comprehension
+- <a href="https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3">Link</a>
+
+![](images/abbreviateatwowordname.png)
+
+----------
