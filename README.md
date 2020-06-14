@@ -71,6 +71,11 @@ From which new tricks and lessons can be learnt.
 - Check if an array contains a value
     1) Using namespace System.Linq
     2) Using namespace System
+- Tips: 
+    - *Classes* can be made available using **using static** directive 
+        - e.g. **using static System.Linq.Enumerable**
+    - *Namespace aliases* can be used to avoid name clashes 
+        - e.g. **using Linq=System.Linq**
 - <a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b">Link</a>
 
 ![](images/arraycontains.png)
