@@ -67,4 +67,10 @@ From which new tricks and lessons can be learnt.
 
 ![](images/abbreviateatwowordname.png)
 
-----------
+# C#
+- Check if an array contains a value
+    1) Using namespace System.Linq
+    2) Using namespace System
+- <a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b">Link</a>
+
+![](images/arraycontains.png)
